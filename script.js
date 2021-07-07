@@ -9,12 +9,12 @@ $('label').each(
         info = new Map([
             ['First Name', 'Raj'],
             ['Last Name', 'Patel'],
-            ['Address Line 1', '15220 NE 16th PL'],
+            ['Address Line 1', '12345 NE 16th St'],
             ['Address Line 2', 'Apt 35'],
-            ['City', 'Bellevue'],
+            ['City', 'Seattle'],
             ['State', 'Washington'],
-            ['Postal Code', '98007'],
-            ['Phone Number','3864666667']
+            ['Postal Code', '0000'],
+            ['Phone Number','00000']
         ])
         if (id != undefined )
         {
